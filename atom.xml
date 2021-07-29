@@ -3,11 +3,11 @@
   <title>搞it的阿辉</title>
   
   
-  <link href="https://www.u66.top/atom.xml" rel="self"/>
+  <link href="https://yonghui666.github.io/blog/atom.xml" rel="self"/>
   
-  <link href="https://www.u66.top/"/>
+  <link href="https://yonghui666.github.io/blog/"/>
   <updated>2021-06-07T06:53:07.299Z</updated>
-  <id>https://www.u66.top/</id>
+  <id>https://yonghui666.github.io/blog/</id>
   
   <author>
     <name>阿辉</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>互联网黑话</title>
-    <link href="https://www.u66.top/2021/04/22/cihui/"/>
-    <id>https://www.u66.top/2021/04/22/cihui/</id>
+    <link href="https://yonghui666.github.io/blog/2021/04/22/cihui/"/>
+    <id>https://yonghui666.github.io/blog/2021/04/22/cihui/</id>
     <published>2021-04-22T07:34:00.000Z</published>
     <updated>2021-06-07T06:53:07.299Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-    <category term="互联网" scheme="https://www.u66.top/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    <category term="互联网" scheme="https://yonghui666.github.io/blog/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
   <entry>
     <title>曾阅读过的好书推荐</title>
-    <link href="https://www.u66.top/2020/05/20/booktuijian/"/>
-    <id>https://www.u66.top/2020/05/20/booktuijian/</id>
+    <link href="https://yonghui666.github.io/blog/2020/05/20/booktuijian/"/>
+    <id>https://yonghui666.github.io/blog/2020/05/20/booktuijian/</id>
     <published>2020-05-20T09:14:09.000Z</published>
     <updated>2021-06-07T07:53:03.089Z</updated>
     
@@ -63,14 +63,14 @@
     
     
     
-    <category term="推荐" scheme="https://www.u66.top/tags/%E6%8E%A8%E8%8D%90/"/>
+    <category term="推荐" scheme="https://yonghui666.github.io/blog/tags/%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
   <entry>
     <title>想要做一个同款的博客？</title>
-    <link href="https://www.u66.top/2020/03/25/make-blog/"/>
-    <id>https://www.u66.top/2020/03/25/make-blog/</id>
+    <link href="https://yonghui666.github.io/blog/2020/03/25/make-blog/"/>
+    <id>https://yonghui666.github.io/blog/2020/03/25/make-blog/</id>
     <published>2020-03-25T08:55:20.000Z</published>
     <updated>2021-07-29T10:50:08.323Z</updated>
     
@@ -88,7 +88,7 @@
     
     
     
-    <category term="博客制作" scheme="https://www.u66.top/tags/%E5%8D%9A%E5%AE%A2%E5%88%B6%E4%BD%9C/"/>
+    <category term="博客制作" scheme="https://yonghui666.github.io/blog/tags/%E5%8D%9A%E5%AE%A2%E5%88%B6%E4%BD%9C/"/>
     
   </entry>
   
